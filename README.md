@@ -2,6 +2,8 @@
 
 Docker `ngxpagespeed` image which proxies to content of another container named `web` on port 80.
 
+- :whale: https://hub.docker.com/r/schmunk42/ngxpagespeed/
+
 ## Build
 
 	docker build -t dgageot/ngxpagespeed .
